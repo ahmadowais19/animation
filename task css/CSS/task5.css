@@ -1,0 +1,40 @@
+.a{
+    background-image: url("../dd.jpg");
+    background-size: 200px;
+    width: 100%;
+    height: 500px;
+
+}
+
+
+.d{ 
+    /* background-image: url("../dd.jpg"); */
+    /* background-size: 60px; */
+    width: 600px;
+   text-align: center;
+    text-transform: uppercase;
+
+}
+
+.d h1 {
+    font-size: 100px;
+}
+
+.one{
+    color: red;
+    text-transform: uppercase;
+    text-decoration: underline;
+    }
+
+    .tow{
+        color: rgb(69, 69, 167);
+    }
+     
+    .three{
+        text-transform: uppercase;
+        color: red;
+        background-color: yellow;
+        width: 80px;
+    }
+
+
